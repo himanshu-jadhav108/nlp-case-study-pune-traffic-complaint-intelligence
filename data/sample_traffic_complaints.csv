@@ -1,0 +1,181 @@
+complaint_text,category,template_id
+Traffic is barely moving around Swargate during the evening rush.,Congestion,Congestion-01
+Traffic is barely moving around Kothrud during the evening rush.,Congestion,Congestion-01
+Traffic is barely moving around Baner during the evening rush.,Congestion,Congestion-01
+Traffic is barely moving around Pimpri during the evening rush.,Congestion,Congestion-01
+Traffic is barely moving around Katraj during the evening rush.,Congestion,Congestion-01
+A long queue of vehicles has built up near Hadapsar; commuters are delayed.,Congestion,Congestion-02
+A long queue of vehicles has built up near Koregaon Park; commuters are delayed.,Congestion,Congestion-02
+A long queue of vehicles has built up near Chinchwad; commuters are delayed.,Congestion,Congestion-02
+A long queue of vehicles has built up near Kharadi; commuters are delayed.,Congestion,Congestion-02
+A long queue of vehicles has built up near Camp; commuters are delayed.,Congestion,Congestion-02
+Vehicles are crawling by Deccan and the junction is backed up.,Congestion,Congestion-03
+Vehicles are crawling by Aundh and the junction is backed up.,Congestion,Congestion-03
+Vehicles are crawling by Viman Nagar and the junction is backed up.,Congestion,Congestion-03
+Vehicles are crawling by Pune Station and the junction is backed up.,Congestion,Congestion-03
+Vehicles are crawling by Sinhagad Road and the junction is backed up.,Congestion,Congestion-03
+Please send traffic staff to Katraj; congestion is stretching down the road.,Congestion,Congestion-04
+Please send traffic staff to Yerawada; congestion is stretching down the road.,Congestion,Congestion-04
+Please send traffic staff to FC Road; congestion is stretching down the road.,Congestion,Congestion-04
+Please send traffic staff to Warje; congestion is stretching down the road.,Congestion,Congestion-04
+Please send traffic staff to Market Yard; congestion is stretching down the road.,Congestion,Congestion-04
+The road near Camp is packed with cars and buses this morning.,Congestion,Congestion-05
+The road near JM Road is packed with cars and buses this morning.,Congestion,Congestion-05
+The road near Bavdhan is packed with cars and buses this morning.,Congestion,Congestion-05
+The road near Swargate is packed with cars and buses this morning.,Congestion,Congestion-05
+The road near Kothrud is packed with cars and buses this morning.,Congestion,Congestion-05
+Commuters report a severe traffic jam at Sinhagad Road after the rush began.,Congestion,Congestion-06
+Commuters report a severe traffic jam at Kondhwa after the rush began.,Congestion,Congestion-06
+Commuters report a severe traffic jam at Shivajinagar after the rush began.,Congestion,Congestion-06
+Commuters report a severe traffic jam at Hadapsar after the rush began.,Congestion,Congestion-06
+Commuters report a severe traffic jam at Koregaon Park after the rush began.,Congestion,Congestion-06
+A collision involving two cars has blocked a lane near Shivajinagar.,Accident,Accident-01
+A collision involving two cars has blocked a lane near Hadapsar.,Accident,Accident-01
+A collision involving two cars has blocked a lane near Koregaon Park.,Accident,Accident-01
+A collision involving two cars has blocked a lane near Chinchwad.,Accident,Accident-01
+A collision involving two cars has blocked a lane near Kharadi.,Accident,Accident-01
+There has been a road accident at Wakad; please arrange assistance.,Accident,Accident-02
+There has been a road accident at Deccan; please arrange assistance.,Accident,Accident-02
+There has been a road accident at Aundh; please arrange assistance.,Accident,Accident-02
+There has been a road accident at Viman Nagar; please arrange assistance.,Accident,Accident-02
+There has been a road accident at Pune Station; please arrange assistance.,Accident,Accident-02
+"A scooter and a car have crashed close to Pimpri, slowing traffic.",Accident,Accident-03
+"A scooter and a car have crashed close to Katraj, slowing traffic.",Accident,Accident-03
+"A scooter and a car have crashed close to Yerawada, slowing traffic.",Accident,Accident-03
+"A scooter and a car have crashed close to FC Road, slowing traffic.",Accident,Accident-03
+"A scooter and a car have crashed close to Warje, slowing traffic.",Accident,Accident-03
+Emergency help is needed after a vehicle collision by Kharadi.,Accident,Accident-04
+Emergency help is needed after a vehicle collision by Camp.,Accident,Accident-04
+Emergency help is needed after a vehicle collision by JM Road.,Accident,Accident-04
+Emergency help is needed after a vehicle collision by Bavdhan.,Accident,Accident-04
+Emergency help is needed after a vehicle collision by Swargate.,Accident,Accident-04
+An overturned vehicle is causing trouble for traffic near Pune Station.,Accident,Accident-05
+An overturned vehicle is causing trouble for traffic near Sinhagad Road.,Accident,Accident-05
+An overturned vehicle is causing trouble for traffic near Kondhwa.,Accident,Accident-05
+An overturned vehicle is causing trouble for traffic near Shivajinagar.,Accident,Accident-05
+An overturned vehicle is causing trouble for traffic near Hadapsar.,Accident,Accident-05
+Witnesses report a minor crash at Warje; one lane is obstructed.,Accident,Accident-06
+Witnesses report a minor crash at Market Yard; one lane is obstructed.,Accident,Accident-06
+Witnesses report a minor crash at Hinjewadi; one lane is obstructed.,Accident,Accident-06
+Witnesses report a minor crash at Wakad; one lane is obstructed.,Accident,Accident-06
+Witnesses report a minor crash at Deccan; one lane is obstructed.,Accident,Accident-06
+The traffic light at Hinjewadi has been stuck on red for several cycles.,Signal,Signal-01
+The traffic light at Wakad has been stuck on red for several cycles.,Signal,Signal-01
+The traffic light at Deccan has been stuck on red for several cycles.,Signal,Signal-01
+The traffic light at Aundh has been stuck on red for several cycles.,Signal,Signal-01
+The traffic light at Viman Nagar has been stuck on red for several cycles.,Signal,Signal-01
+Signals are not working at the Baner junction and traffic is confused.,Signal,Signal-02
+Signals are not working at the Pimpri junction and traffic is confused.,Signal,Signal-02
+Signals are not working at the Katraj junction and traffic is confused.,Signal,Signal-02
+Signals are not working at the Yerawada junction and traffic is confused.,Signal,Signal-02
+Signals are not working at the FC Road junction and traffic is confused.,Signal,Signal-02
+The green light never comes on near Chinchwad; please repair the signal.,Signal,Signal-03
+The green light never comes on near Kharadi; please repair the signal.,Signal,Signal-03
+The green light never comes on near Camp; please repair the signal.,Signal,Signal-03
+The green light never comes on near JM Road; please repair the signal.,Signal,Signal-03
+The green light never comes on near Bavdhan; please repair the signal.,Signal,Signal-03
+A faulty traffic signal is causing unsafe crossings at Viman Nagar.,Signal,Signal-04
+A faulty traffic signal is causing unsafe crossings at Pune Station.,Signal,Signal-04
+A faulty traffic signal is causing unsafe crossings at Sinhagad Road.,Signal,Signal-04
+A faulty traffic signal is causing unsafe crossings at Kondhwa.,Signal,Signal-04
+A faulty traffic signal is causing unsafe crossings at Shivajinagar.,Signal,Signal-04
+The signal timer at FC Road appears broken and vehicles are piling up.,Signal,Signal-05
+The signal timer at Warje appears broken and vehicles are piling up.,Signal,Signal-05
+The signal timer at Market Yard appears broken and vehicles are piling up.,Signal,Signal-05
+The signal timer at Hinjewadi appears broken and vehicles are piling up.,Signal,Signal-05
+The signal timer at Wakad appears broken and vehicles are piling up.,Signal,Signal-05
+Please check the dark traffic lights near Bavdhan; they are out of service.,Signal,Signal-06
+Please check the dark traffic lights near Swargate; they are out of service.,Signal,Signal-06
+Please check the dark traffic lights near Kothrud; they are out of service.,Signal,Signal-06
+Please check the dark traffic lights near Baner; they are out of service.,Signal,Signal-06
+Please check the dark traffic lights near Pimpri; they are out of service.,Signal,Signal-06
+Cars parked on both sides are narrowing the street at Kothrud.,Parking,Parking-01
+Cars parked on both sides are narrowing the street at Baner.,Parking,Parking-01
+Cars parked on both sides are narrowing the street at Pimpri.,Parking,Parking-01
+Cars parked on both sides are narrowing the street at Katraj.,Parking,Parking-01
+Cars parked on both sides are narrowing the street at Yerawada.,Parking,Parking-01
+Illegal parking outside the shops near Koregaon Park is blocking the bus stop.,Parking,Parking-02
+Illegal parking outside the shops near Chinchwad is blocking the bus stop.,Parking,Parking-02
+Illegal parking outside the shops near Kharadi is blocking the bus stop.,Parking,Parking-02
+Illegal parking outside the shops near Camp is blocking the bus stop.,Parking,Parking-02
+Illegal parking outside the shops near JM Road is blocking the bus stop.,Parking,Parking-02
+"Vehicles are left on the footpath around Aundh, forcing people into the road.",Parking,Parking-03
+"Vehicles are left on the footpath around Viman Nagar, forcing people into the road.",Parking,Parking-03
+"Vehicles are left on the footpath around Pune Station, forcing people into the road.",Parking,Parking-03
+"Vehicles are left on the footpath around Sinhagad Road, forcing people into the road.",Parking,Parking-03
+"Vehicles are left on the footpath around Kondhwa, forcing people into the road.",Parking,Parking-03
+Please clear the no-parking area near Yerawada; traffic cannot pass easily.,Parking,Parking-04
+Please clear the no-parking area near FC Road; traffic cannot pass easily.,Parking,Parking-04
+Please clear the no-parking area near Warje; traffic cannot pass easily.,Parking,Parking-04
+Please clear the no-parking area near Market Yard; traffic cannot pass easily.,Parking,Parking-04
+Please clear the no-parking area near Hinjewadi; traffic cannot pass easily.,Parking,Parking-04
+A row of parked bikes is obstructing the lane by JM Road.,Parking,Parking-05
+A row of parked bikes is obstructing the lane by Bavdhan.,Parking,Parking-05
+A row of parked bikes is obstructing the lane by Swargate.,Parking,Parking-05
+A row of parked bikes is obstructing the lane by Kothrud.,Parking,Parking-05
+A row of parked bikes is obstructing the lane by Baner.,Parking,Parking-05
+Double-parked cars are blocking the entrance at Kondhwa.,Parking,Parking-06
+Double-parked cars are blocking the entrance at Shivajinagar.,Parking,Parking-06
+Double-parked cars are blocking the entrance at Hadapsar.,Parking,Parking-06
+Double-parked cars are blocking the entrance at Koregaon Park.,Parking,Parking-06
+Double-parked cars are blocking the entrance at Chinchwad.,Parking,Parking-06
+Road work near Hadapsar has closed two lanes and created a bottleneck.,Construction,Construction-01
+Road work near Koregaon Park has closed two lanes and created a bottleneck.,Construction,Construction-01
+Road work near Chinchwad has closed two lanes and created a bottleneck.,Construction,Construction-01
+Road work near Kharadi has closed two lanes and created a bottleneck.,Construction,Construction-01
+Road work near Camp has closed two lanes and created a bottleneck.,Construction,Construction-01
+Construction debris is scattered across the carriageway at Deccan.,Construction,Construction-02
+Construction debris is scattered across the carriageway at Aundh.,Construction,Construction-02
+Construction debris is scattered across the carriageway at Viman Nagar.,Construction,Construction-02
+Construction debris is scattered across the carriageway at Pune Station.,Construction,Construction-02
+Construction debris is scattered across the carriageway at Sinhagad Road.,Construction,Construction-02
+A digging project by Katraj has left only one lane open.,Construction,Construction-03
+A digging project by Yerawada has left only one lane open.,Construction,Construction-03
+A digging project by FC Road has left only one lane open.,Construction,Construction-03
+A digging project by Warje has left only one lane open.,Construction,Construction-03
+A digging project by Market Yard has left only one lane open.,Construction,Construction-03
+Please add warning signs to the road repairs near Camp.,Construction,Construction-04
+Please add warning signs to the road repairs near JM Road.,Construction,Construction-04
+Please add warning signs to the road repairs near Bavdhan.,Construction,Construction-04
+Please add warning signs to the road repairs near Swargate.,Construction,Construction-04
+Please add warning signs to the road repairs near Kothrud.,Construction,Construction-04
+Construction barriers are redirecting traffic onto a narrow stretch at Sinhagad Road.,Construction,Construction-05
+Construction barriers are redirecting traffic onto a narrow stretch at Kondhwa.,Construction,Construction-05
+Construction barriers are redirecting traffic onto a narrow stretch at Shivajinagar.,Construction,Construction-05
+Construction barriers are redirecting traffic onto a narrow stretch at Hadapsar.,Construction,Construction-05
+Construction barriers are redirecting traffic onto a narrow stretch at Koregaon Park.,Construction,Construction-05
+Utility work around Market Yard has blocked the road without a clear detour.,Construction,Construction-06
+Utility work around Hinjewadi has blocked the road without a clear detour.,Construction,Construction-06
+Utility work around Wakad has blocked the road without a clear detour.,Construction,Construction-06
+Utility work around Deccan has blocked the road without a clear detour.,Construction,Construction-06
+Utility work around Aundh has blocked the road without a clear detour.,Construction,Construction-06
+A deep pothole near Wakad is damaging vehicles and needs repair.,Road Condition,Road Condition-01
+A deep pothole near Deccan is damaging vehicles and needs repair.,Road Condition,Road Condition-01
+A deep pothole near Aundh is damaging vehicles and needs repair.,Road Condition,Road Condition-01
+A deep pothole near Viman Nagar is damaging vehicles and needs repair.,Road Condition,Road Condition-01
+A deep pothole near Pune Station is damaging vehicles and needs repair.,Road Condition,Road Condition-01
+The road surface is badly broken along Pimpri after the recent rain.,Road Condition,Road Condition-02
+The road surface is badly broken along Katraj after the recent rain.,Road Condition,Road Condition-02
+The road surface is badly broken along Yerawada after the recent rain.,Road Condition,Road Condition-02
+The road surface is badly broken along FC Road after the recent rain.,Road Condition,Road Condition-02
+The road surface is badly broken along Warje after the recent rain.,Road Condition,Road Condition-02
+There is a large crater in the road by Kharadi; cyclists are swerving around it.,Road Condition,Road Condition-03
+There is a large crater in the road by Camp; cyclists are swerving around it.,Road Condition,Road Condition-03
+There is a large crater in the road by JM Road; cyclists are swerving around it.,Road Condition,Road Condition-03
+There is a large crater in the road by Bavdhan; cyclists are swerving around it.,Road Condition,Road Condition-03
+There is a large crater in the road by Swargate; cyclists are swerving around it.,Road Condition,Road Condition-03
+Loose gravel on the stretch near Pune Station makes riding unsafe.,Road Condition,Road Condition-04
+Loose gravel on the stretch near Sinhagad Road makes riding unsafe.,Road Condition,Road Condition-04
+Loose gravel on the stretch near Kondhwa makes riding unsafe.,Road Condition,Road Condition-04
+Loose gravel on the stretch near Shivajinagar makes riding unsafe.,Road Condition,Road Condition-04
+Loose gravel on the stretch near Hadapsar makes riding unsafe.,Road Condition,Road Condition-04
+Several potholes have appeared on the road at Warje.,Road Condition,Road Condition-05
+Several potholes have appeared on the road at Market Yard.,Road Condition,Road Condition-05
+Several potholes have appeared on the road at Hinjewadi.,Road Condition,Road Condition-05
+Several potholes have appeared on the road at Wakad.,Road Condition,Road Condition-05
+Several potholes have appeared on the road at Deccan.,Road Condition,Road Condition-05
+The uneven pavement around Swargate is a hazard for two-wheelers.,Road Condition,Road Condition-06
+The uneven pavement around Kothrud is a hazard for two-wheelers.,Road Condition,Road Condition-06
+The uneven pavement around Baner is a hazard for two-wheelers.,Road Condition,Road Condition-06
+The uneven pavement around Pimpri is a hazard for two-wheelers.,Road Condition,Road Condition-06
+The uneven pavement around Katraj is a hazard for two-wheelers.,Road Condition,Road Condition-06
